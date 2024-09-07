@@ -1,4 +1,4 @@
-Elbette! İşte daha ayrıntılı bir README dosyası örneği:
+
 
 ```markdown
 # Event Ticketing System on Solana
